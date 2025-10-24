@@ -4,4 +4,4 @@ This is meant to document and archive BOSCO's alpha development. All scripts her
 
 I again emphasize; DO NOT USE MY CODE TO LEARN PYTHON, YOU WILL NOT GET FAR.
 
-ALPHA HAS ENDED, THIS REPO WILL HAVE NO FURTHER COMMITS.
+# ALPHA HAS ENDED, THIS REPO WILL HAVE NO FURTHER COMMITS.
